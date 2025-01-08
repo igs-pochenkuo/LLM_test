@@ -74,7 +74,7 @@ ReAct （Reason+Act） 是由推理和行動兩個字所組而成
 - 行動:下單付款
 
 #####  現有使用 ReAct prompting 的框架
-可以快速的使用在各種任務上，省去"自己動手造輪子"的部分
+可以快速的使用在各種任務上，省去摸索的過程
 https://smith.langchain.com/hub/
 https://smith.langchain.com/hub/captain/react
 
@@ -136,4 +136,7 @@ https://agijuejin.feishu.cn/wiki/Y5vwwkyc2iDfunkNrVgcyfERnNe
 https://cloud.baidu.com/article/3373829
 https://www.promptingguide.ai/zh/techniques/reflexion
 https://ithelp.ithome.com.tw/articles/10348597
+https://arxiv.org/pdf/2201.11903.pdf
+https://smith.langchain.com/hub/
+https://python.langchain.com/docs/introduction/
 
