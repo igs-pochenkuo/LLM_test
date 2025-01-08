@@ -133,7 +133,7 @@ AI Agent 發送請求給外部工具並等待回應。這一過程中，Agent �
 
 最終行動：下單並完成付款。
 
-##### reference
+## reference
 https://www.promptingguide.ai/zh/techniques/cot
 
 https://medium.com/vincent-chen/ai-agent%E6%A6%82%E5%BF%B5%E5%8F%8A%E5%85%B6%E6%87%89%E7%94%A8-e66c88e9a015
