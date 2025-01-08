@@ -131,12 +131,21 @@ AI Agent 發送請求給外部工具並等待回應。這一過程中，Agent �
 
 ##### reference
 https://www.promptingguide.ai/zh/techniques/cot
+
 https://medium.com/vincent-chen/ai-agent%E6%A6%82%E5%BF%B5%E5%8F%8A%E5%85%B6%E6%87%89%E7%94%A8-e66c88e9a015
+
 https://agijuejin.feishu.cn/wiki/Y5vwwkyc2iDfunkNrVgcyfERnNe
+
 https://cloud.baidu.com/article/3373829
+
 https://www.promptingguide.ai/zh/techniques/reflexion
+
 https://ithelp.ithome.com.tw/articles/10348597
+
 https://arxiv.org/pdf/2201.11903.pdf
+
 https://smith.langchain.com/hub/
+
 https://python.langchain.com/docs/introduction/
+
 
