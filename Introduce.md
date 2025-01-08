@@ -15,7 +15,7 @@ AI Agent:
 - 能夠主動採取行動實現目標 (Action)
 - 可以使用工具和 API 完成任務 (Tool)
 
-![img](https://imgs.gvm.com.tw/upload/gallery/20240630/175053.jpg)
+![img](./pic/175053.jpg)
 
 舉例來說:
 1. Auto-GPT: 能夠自主規劃並完成一系列任務，如市場調研、寫程式碼等
@@ -63,7 +63,7 @@ ReAct （Reason+Act） 是由推理和行動兩個字所組而成
 讓 LLM 根據需求，思考是否尋求外部工具或使用哪一種工具的協助，在需要的時候呼叫工具進一步取得新資訊，例如使用 google search 或計算機等工具。
 
 
-![img](https://edge.aif.tw/content/images/2024/03/--2.png)
+![img](./pic/--2.png)
 
 **例如:**
 訂購披薩
