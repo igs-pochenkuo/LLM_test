@@ -63,7 +63,7 @@ ReAct （Reason+Act） 是由推理和行動兩個字所組而成
 讓 LLM 根據需求，思考是否尋求外部工具或使用哪一種工具的協助，在需要的時候呼叫工具進一步取得新資訊，例如使用 google search 或計算機等工具。
 
 
-![img](./pic/--2.png)
+![img](./pic/202406032326549.png)
 
 **例如:**
 訂購披薩
@@ -75,7 +75,6 @@ ReAct （Reason+Act） 是由推理和行動兩個字所組而成
 
 #####  現有使用 ReAct prompting 的框架
 可以快速的使用在各種任務上，省去摸索的過程
-https://smith.langchain.com/hub/
 https://smith.langchain.com/hub/captain/react
 
 
@@ -138,22 +137,27 @@ AI Agent 的調用工具能力是其實現任務的關鍵組成部分，這一�
 最終行動：下單並完成付款。
 
 ## reference
-https://www.promptingguide.ai/zh/techniques/cot
 
-https://medium.com/vincent-chen/ai-agent%E6%A6%82%E5%BF%B5%E5%8F%8A%E5%85%B6%E6%87%89%E7%94%A8-e66c88e9a015
+提示工程: 
+- https://www.promptingguide.ai/zh/techniques/cot
+- https://www.promptingguide.ai/zh/techniques/react
+- https://www.promptingguide.ai/zh/techniques/reflexion
 
-https://agijuejin.feishu.cn/wiki/Y5vwwkyc2iDfunkNrVgcyfERnNe
+AI Agent概念及其應用: 
+- https://medium.com/vincent-chen/ai-agent%E6%A6%82%E5%BF%B5%E5%8F%8A%E5%85%B6%E6%87%89%E7%94%A8-e66c88e9a015
 
-https://cloud.baidu.com/article/3373829
+AI Agent 相關文章集合:
+- https://agijuejin.feishu.cn/wiki/Y5vwwkyc2iDfunkNrVgcyfERnNe
 
-https://www.promptingguide.ai/zh/techniques/reflexion
+Agent长期记忆机制
+- https://cloud.baidu.com/article/3373829
 
-https://ithelp.ithome.com.tw/articles/10348597
+Chain-of-Thought Prompting Elicits Reasoning in Large Language Models (2023.01.10)
+- https://arxiv.org/pdf/2201.11903.pdf
 
-https://arxiv.org/pdf/2201.11903.pdf
+LangChain 框架
+- https://smith.langchain.com/hub/
+- https://python.langchain.com/docs/introduction/
 
-https://smith.langchain.com/hub/
-
-https://python.langchain.com/docs/introduction/
 
 
